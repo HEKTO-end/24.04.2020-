@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Координаты", "Координаты\Координаты.csproj", "{C35E5A5F-A795-4F8A-A74D-603920842D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35E5A5F-A795-4F8A-A74D-603920842D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35E5A5F-A795-4F8A-A74D-603920842D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35E5A5F-A795-4F8A-A74D-603920842D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35E5A5F-A795-4F8A-A74D-603920842D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C622A3-C8E1-4C07-8E82-991DD11D5654}
+	EndGlobalSection
+EndGlobal

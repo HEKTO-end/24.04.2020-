@@ -1,0 +1,6 @@
+C:\Users\UPPiotr\source\repos\Координаты\Координаты\bin\Debug\Координаты.exe.config
+C:\Users\UPPiotr\source\repos\Координаты\Координаты\bin\Debug\Координаты.exe
+C:\Users\UPPiotr\source\repos\Координаты\Координаты\bin\Debug\Координаты.pdb
+C:\Users\UPPiotr\source\repos\Координаты\Координаты\obj\Debug\Координаты.csprojAssemblyReference.cache
+C:\Users\UPPiotr\source\repos\Координаты\Координаты\obj\Debug\Координаты.exe
+C:\Users\UPPiotr\source\repos\Координаты\Координаты\obj\Debug\Координаты.pdb
